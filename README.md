@@ -1,7 +1,9 @@
 # chinese-completion
 JetBrains 系 IDE 中文补全插件
 
-[下载地址](https://plugins.jetbrains.com/plugin/14657---)
+[手动安装下载地址](https://github.com/trouble-revolution/chinese-completion/releases)
+
+[插件市场下载地址（永久审核中）](https://plugins.jetbrains.com/plugin/14657---)
 
 [介绍](https://zhuanlan.zhihu.com/p/156900340)
 
